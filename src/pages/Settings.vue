@@ -1,6 +1,6 @@
 <template>
     <q-page padding>
-        <p>Setting Page</p>
+        <p>By: Renaldi Yulvianda</p>
     </q-page>
 </template>
 
